@@ -1,0 +1,6 @@
+{
+  "name": "HotelPro",
+  "description": "Comprehensive hotel booking and operations management system with guest reservations, admin dashboard, room inventory, and user management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
